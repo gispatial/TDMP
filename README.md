@@ -17,10 +17,12 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 ## Installation VueJs
 $ yarn
-…then
+…
+then
 $ yarn serve
 
 ## Installation via Nuxt
 $ yarn
-…then
+…
+then
 $ yarn dev
